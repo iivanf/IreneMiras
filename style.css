@@ -765,7 +765,7 @@ a:hover {
 .fa-certificate {
     color: #daa41e;
     position: relative;
-    z-index: 6;
-    left: 100%;
-    top: -25px;
+    z-index: 1;
+    top: -5px;
+    left: -12px;
 }
